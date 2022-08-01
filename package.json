@@ -1,5 +1,5 @@
 {
-  "name": "rccg-remitance-auth-and-dir",
+  "name": "auth-and-dir",
   "version": "1.0.0",
   "main": "./build/index.js",
   "keywords": [
@@ -10,7 +10,7 @@
     "restfull",
     "api"
   ],
-  "description": "E-Remittance Application | www.rccg.org",
+  "description": "User Authentication With Directory Crud Backend Api (Postman + Swagger API Documentation)",
   "license": "",
   "scripts": {
     "build": "tsc --skipLibCheck",
